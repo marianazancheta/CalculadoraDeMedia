@@ -1,0 +1,50 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-color: #1a1a1a;
+  background-size: 80vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+  
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+  display:block;
+  position: relative;
+  top:5px;
+  font-size: 12pt;
+}
+
+p {
+  color: white;
+  text-align:center;
+}
+
+input {
+  margin-top: 20px;
+}
+
+button {
+  margin: 20px;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-size: 15pt;
+  background-color: #eb4034;
+  color: white;
+  border: 2px solid #ffeeed;
+}
+
+#corpoNota p {
+  font-size: 18pt;
+}
